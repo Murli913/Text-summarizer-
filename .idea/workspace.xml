@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a9c90b-d769-4f1d-afb2-2a3db530a9a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AI-PROJECT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="f6a9c90b-d769-4f1d-afb2-2a3db530a9a1" name="Changes" comment="text summarize project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,12 +58,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790421001749</updated>
-      <workItem from="1790421002273" duration="6588000" />
+      <workItem from="1790421002273" duration="6909000" />
     </task>
+    <task id="LOCAL-00001" summary="text summarize project">
+      <option name="closed" value="true" />
+      <created>1790427793533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790427793533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="text summarize project">
+      <option name="closed" value="true" />
+      <created>1790427829278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790427829278</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="text summarize project" />
+    <option name="LAST_COMMIT_MESSAGE" value="text summarize project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
